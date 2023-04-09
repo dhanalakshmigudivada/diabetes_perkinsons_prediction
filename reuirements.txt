@@ -1,0 +1,6 @@
+pandas
+numpy
+sklearn
+pickle
+streamlit
+streamlit_option_menu
