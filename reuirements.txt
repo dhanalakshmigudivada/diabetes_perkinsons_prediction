@@ -3,4 +3,4 @@ numpy
 sklearn
 pickle
 streamlit
-streamlit_option_menu
+streamlit_option_menu==0.3.2
